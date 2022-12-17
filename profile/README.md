@@ -1,3 +1,3 @@
-<img src="./scope-banner.png">
+<img src="../profile/scope-banner.png">
 
 we do some things
