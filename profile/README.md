@@ -1,3 +1,1 @@
-<img src="/profile/scope-banner.png">
-
-we do some things
+<img src="/profile/infiniworks banner.png">
