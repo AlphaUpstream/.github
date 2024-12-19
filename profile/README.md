@@ -1,1 +1,1 @@
-<img src="/profile/infiniworks banner.png">
+Productivity and Business software that is also perfect for Individuals.
